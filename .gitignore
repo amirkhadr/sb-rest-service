@@ -1,0 +1,21 @@
+# Mac OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dropbox 
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+# IDE 
+.metadata
+.settings/
+.workspace/
+.mvn/
+.classpath
+
+# Project
+target/
+
+
