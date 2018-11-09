@@ -9,6 +9,7 @@
 .dropbox.cache
 
 # IDE 
+.project
 .metadata
 .settings/
 .workspace/
